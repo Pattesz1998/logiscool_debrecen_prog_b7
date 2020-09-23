@@ -4,4 +4,15 @@ Kérlek titeket, hogy amennyiben időtök engedi, nézzétek át az eddig megír
 Ezekről mindig a következő óra elején tudunk beszélgetni (kb 5-10p időtartamban) amikor feltehetitek az esetleg otthoni tananyag feldolgozás során felmerülő kérdéseiteket! :)
 
 # Óravázlatok 
-## 1.
+## 1. alkalom: 2020. szeptember 16.
+Ladders and Snakes nevű játék programozása
+- mik is azok a változók?
+- movePlayer() segédfüggvény és feladatai
+- Szereplőink (katicabogár, mickyegér) programjának megírása (hogyan is viselkedjenek a szereplőink)
+- Főprogram megírása (mi történjen a szóköz gomb lenyomása esetén, mi történjen ha kígyóra vagy létrára lépünk stb stb.)
+
+## 2. alkalom: 2020. szeptember 23.
+Bubble Trouble nevű játék programozása
+- ezen az órán elkezdjük használni a Scoolcode fizikai motorját is
+- felvesszük programunk hátterét valamint szereplőit
+- programunkhoz szükséges változók felvétele: (let game on, let points)
