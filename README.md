@@ -3,7 +3,7 @@ Logiscool Debrecen B7 - Szerda 16:40-es csoportjának repository-ja, itt megtal�
 Kérlek titeket, hogy amennyiben időtök engedi, nézzétek át az eddig megírt programokat, melyet/melyeket "titkos kód" segítségével átadtam nektek :)
 Ezekről mindig a következő óra elején tudunk beszélgetni (kb 5-10p időtartamban) amikor feltehetitek az esetleg otthoni tananyag feldolgozás során felmerülő kérdéseiteket! :)
 
-![Meme](https://raw.githubusercontent.com/Pattesz1998/logiscool_debrecen_prog_b7/master/b7_winnie_the_pooh_meme.jpg =440x455)
+![Meme](https://raw.githubusercontent.com/Pattesz1998/logiscool_debrecen_prog_b7/master/b7_winnie_the_pooh_meme.jpg)
 
 # Óravázlatok 
 ## 1. alkalom: 2020. szeptember 16.
