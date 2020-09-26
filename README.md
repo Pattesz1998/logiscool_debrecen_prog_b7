@@ -12,9 +12,16 @@ Ladders and Snakes nevű játék programozása
 - movePlayer() segédfüggvény és feladatai
 - Szereplőink (katicabogár, mickyegér) programjának megírása (hogyan is viselkedjenek a szereplőink)
 - Főprogram megírása (mi történjen a szóköz gomb lenyomása esetén, mi történjen ha kígyóra vagy létrára lépünk stb stb.)
+- Kérdések megválaszolása, programokban keletkezett hibák javítása
 
 ## 2. alkalom: 2020. szeptember 23.
 Bubble Trouble nevű játék programozása
-- ezen az órán elkezdjük használni a Scoolcode fizikai motorját is
+- Első órai Ladders and Snakes játék hiányzó sorainak kiegészítése ("titkos kód" segítségével)
+- Ladders and Snakes játék hiányzó kódrészletének közös áttekintése, átbeszélése
+- Scoolcode fizikai motorjának megismerése, használata.
 - felvesszük programunk hátterét valamint szereplőit
 - programunkhoz szükséges változók felvétele: (let game on, let points)
+- Kérdések megválaszolása, programokban keletkezett hibák javítása
+
+
+Utoljára frissítve / Last updated : 2020.09.26 (16:49)
